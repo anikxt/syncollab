@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
-@import url('https://fonts.cdnfonts.com/css/cascadia-code');
 
 :root {
   --join-color: #87ceeb;
@@ -9,7 +8,7 @@
 }
 
 body {
-  font-family: Inter, system-ui, -apple-system;
+  font-family: 'Inter', 'Cascadia Code', system-ui, -apple-system;
   font-weight: 500;
 }
 
@@ -51,7 +50,7 @@ footer a {
 }
 
 .homePageLogo {
-  height: 80px;
+  height: 70px;
   margin-bottom: 30px;
 }
 
@@ -164,7 +163,7 @@ footer a:hover {
 }
 
 .logoImage {
-  height: 70px;
+  height: 60px;
 }
 
 .leaveBtn {

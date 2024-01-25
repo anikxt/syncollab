@@ -39,7 +39,12 @@ function Home() {
   return (
     <div className="homePageWrapper">
       <div className="formWrapper">
-        <img className="homePageLogo" src="/logo.png" alt="code-sync-logo" />
+        <img
+          crossOrigin="anonymous"
+          className="homePageLogo"
+          src="/logo.png"
+          alt="code-sync-logo"
+        />
         <h4 className="mainLabel">Paste invitation ROOM ID</h4>
 
         <div className="inputGroup">
