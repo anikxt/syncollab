@@ -1,5 +1,9 @@
 # Syncollab: Realtime Collaborative Code Editor
 
+![Alt text](/screenshots/HomePage.png)
+
+![Alt text](/screenshots/EditorPage.png)
+
 ## Introduction
 
 Are you tired of sending code snippets back and forth, struggling to debug and collaborate with your team? Look no further! **Syncollab** is here to revolutionize the way you code together. This powerful and intuitive collaborative code editor is designed to empower developers, and teams to work seamlessly in real-time, regardless of their location. With **Syncollab**, you can code together, debug together, and ship faster, together.
