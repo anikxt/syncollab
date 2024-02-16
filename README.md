@@ -48,3 +48,16 @@ Are you tired of sending code snippets back and forth, struggling to debug and c
 - Enter the same room id to join the same room
 
 Now both your editor will be synced and you can see the changes in real time. Try opening the same room in multiple browsers/browsers-windows and see the changes.
+
+## Contributing
+
+Contributions to SuperShop are welcome! If you'd like to contribute, please follow these guidelines:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and ensure that the code passes all tests.
+- Submit a pull request detailing your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
